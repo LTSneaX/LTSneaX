@@ -58,11 +58,9 @@ By day I'm fixing client machines and networks. By night I'm building tools that
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LTSneaX&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=58a6ff&text_color=c9d1d9)
+[![GitHub Streak](https://streak-stats.demolab.com?user=LTSneaX&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b35&currStreakLabel=ffffff&sideLabels=c9d1d9&dates=c9d1d9)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LTSneaX&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=LTSneaX&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b35&currStreakLabel=ffffff&sideLabels=c9d1d9&dates=c9d1d9)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=LTSneaX&theme=darkhub&no-frame=true&margin-w=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
