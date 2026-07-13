@@ -9,8 +9,9 @@
 ╚══════╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝
 ```
 
-**IT Technician · Builder · Security Enthusiast**  
-*I break things to understand them. Then I build better ones.*
+### Genius by birth, Evil by Choice.
+
+**Solo founder · Systems builder · Ships his own software, end to end**
 
 </div>
 
@@ -18,13 +19,27 @@
 
 ### About
 
-I build systems that work — from bare metal to the cloud.  
-By day I'm fixing client machines and networks. By night I'm building tools that shouldn't exist yet.
+I design, build, and ship real software — the whole stack, on my own. IT-technician roots (Linux, networking, security) turned into a one-man shop that puts products in front of paying users.
 
-- Self-hosting everything I can
-- Automating everything that shouldn't be manual
-- Security-first, always
+- **Security-first**, always — threat model before feature
+- **Self-host everything** I can — own the stack, own the data
+- **Build my own systems** instead of renting someone else's
+- **AI-native** — I build with agents at the center of the workflow, not as an afterthought
 - Based in Israel 🇮🇱
+
+I take the harder road on purpose. Then I ship it.
+
+---
+
+### What I'm shipping
+
+**[MavisX](https://mavisx.ortzabari.co.il)** — flagship  
+An all-in-one IT toolkit for technicians and power users, delivered as a desktop app. Live, with working paid tiers. A real product you can buy — not a demo.  
+🔗 Site: **https://mavisx.ortzabari.co.il** · 💻 Code: **[github.com/LTSneaX/MavisX](https://github.com/LTSneaX/MavisX)** *(Elastic License 2.0)*
+
+**[Or Tzabari](https://view.ortzabari.co.il)** — local IT services  
+Hands-on IT and PC repair across Rosh Ha'ayin · Petah Tikva · Kfar Saba. Real hardware, real clients, done right.  
+🔗 Site: **https://view.ortzabari.co.il**
 
 ---
 
@@ -67,9 +82,11 @@ By day I'm fixing client machines and networks. By night I'm building tools that
 ### Contact
 
 [![Email](https://img.shields.io/badge/ordatzabari@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ordatzabari@gmail.com)
+[![MavisX](https://img.shields.io/badge/MavisX-mavisx.ortzabari.co.il-CC785C?style=flat&logo=googlechrome&logoColor=white)](https://mavisx.ortzabari.co.il)
+[![Or Tzabari](https://img.shields.io/badge/Or%20Tzabari-view.ortzabari.co.il-009639?style=flat&logo=googlechrome&logoColor=white)](https://view.ortzabari.co.il)
 
 ---
 
 <div align="center">
-<sub>Built different. Shipped anyway.</sub>
+<sub>Chose the hard road. Shipped it anyway.</sub>
 </div>
