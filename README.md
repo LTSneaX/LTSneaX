@@ -34,7 +34,7 @@ I take the harder road on purpose. Then I ship it.
 ### What I'm shipping
 
 **[MavisX](https://mavisx.ortzabari.co.il)** — flagship  
-An all-in-one IT toolkit for technicians and power users, delivered as a desktop app. Live, with working paid tiers. A real product you can buy — not a demo.  
+An all-in-one IT toolkit for technicians and power users, delivered as a desktop app. Live, in beta — real product, actively shipping.  
 🔗 Site: **https://mavisx.ortzabari.co.il** · 💻 Code: **[github.com/LTSneaX/MavisX](https://github.com/LTSneaX/MavisX)** *(Elastic License 2.0)*
 
 **[Or Tzabari](https://view.ortzabari.co.il)** — local IT services  
